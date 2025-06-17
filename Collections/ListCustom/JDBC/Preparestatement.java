@@ -8,7 +8,7 @@ public class Main {
 
                 String url = "jdbc:mysql://localhost:3306/demo";
                 String dbUser = "root";           // MySQL username
-                String dbPwd = "raju";            // MySQL password
+                String dbPwd = "razz";            // MySQL password
 
                 Scanner sc = new Scanner(System.in);
 
